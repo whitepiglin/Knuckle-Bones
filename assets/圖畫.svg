@@ -1,0 +1,2805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st0, .st2 {
+        fill-opacity: .4;
+      }
+
+      .st3 {
+        font-size: 73.3px;
+      }
+
+      .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22 {
+        fill: #ccc;
+      }
+
+      .st3, .st4, .st6, .st7, .st9, .st10, .st11, .st23, .st24, .st12, .st13, .st14, .st15, .st16, .st18, .st19, .st20, .st21, .st22, .st25 {
+        isolation: isolate;
+      }
+
+      .st3, .st4, .st6, .st7, .st9, .st10, .st24, .st12, .st13, .st14, .st15, .st16, .st18, .st19, .st20, .st21, .st22, .st25 {
+        font-family: MicrosoftJhengHeiBold, 'Microsoft JhengHei';
+      }
+
+      .st4 {
+        font-size: 67.5px;
+      }
+
+      .st5 {
+        stroke: #ccc;
+        stroke-linejoin: round;
+        stroke-width: 1.1px;
+      }
+
+      .st6 {
+        font-size: 44.06px;
+      }
+
+      .st7 {
+        font-size: 35.3px;
+      }
+
+      .st8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st9, .st24 {
+        font-size: 28.2px;
+      }
+
+      .st2 {
+        fill: #333;
+      }
+
+      .st10 {
+        font-size: 16.1px;
+      }
+
+      .st11 {
+        font-family: Consolas-Bold, Consolas;
+        font-weight: 700;
+      }
+
+      .st11, .st15 {
+        font-size: 64px;
+      }
+
+      .st26 {
+        fill: #f55;
+      }
+
+      .st24 {
+        fill: #f5d635;
+      }
+
+      .st12 {
+        font-size: 46.9px;
+      }
+
+      .st27 {
+        fill: #666;
+      }
+
+      .st13 {
+        font-size: 21.2px;
+      }
+
+      .st14 {
+        font-size: 47.51px;
+      }
+
+      .st28 {
+        fill: maroon;
+      }
+
+      .st29 {
+        fill: #2b2b2b;
+      }
+
+      .st30 {
+        fill: #d6a11a;
+      }
+
+      .st16 {
+        font-size: 47.6px;
+      }
+
+      .st31 {
+        fill: #cca846;
+      }
+
+      .st32 {
+        fill: #331414;
+        fill-opacity: .6;
+      }
+
+      .st33 {
+        fill: #464646;
+      }
+
+      .st34 {
+        fill: #653336;
+      }
+
+      .st18 {
+        font-size: 28.6px;
+      }
+
+      .st19 {
+        font-size: 16px;
+      }
+
+      .st20 {
+        font-size: 56.2px;
+      }
+
+      .st21 {
+        font-size: 40.04px;
+      }
+
+      .st22 {
+        font-size: 30.7px;
+      }
+
+      .st25 {
+        fill: #848bc4;
+        font-size: 69.23px;
+      }
+    </style>
+  </defs>
+  <image id="image1" class="st23" width="637" height="361" transform="translate(2241.51 -268.76) scale(2.99)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnwAAAFpCAYAAAAGHvXjAAAACXBIWXMAAAOwAAADsAEnxA+tAAAKOklEQVR4nO3dQW6T1xqA4cNVUCVUITH2EugCWEGVDcCURWQdWUSn6QYiVsACYAnpFAmhVohB7qTO9aUJdcD27/PmeUYVLr+P9E1efcc2YwAAkPborheej6fXhzwIAAC78358vOm8/yx5EAAA9k/wAQDECT4AgLiTfT78999+3ufjCXj5+tPOnnV+ebGzZx2Ts9NXSx9h56qzWqvNzLxgfnsNPgBge6tfXyx9BCZ19ebtN193pQsAEHfQDd+fP/1yyLfjCD35/O4g7zP7FU39Cm3T7LNaeygzMy+Ykw0fAECc4AMAiPOlDQA4YldXV0sfgSO1Wq22/n9t+AAA4gQfAECc4AMAiBN8AABxgg8AIO6g39I91I/uAgDwPzZ8AABxgg8AIM6/pctBudYHgMOz4QMAiBN8AABxgg8AIE7wAQDECT4AgDjBBwAQJ/gAAOIEHwBAnOADAIgTfAAAcYIPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAgTvABAMQJPgCAOMEHABAn+AAA4gQfAECc4AMAiBN8AABxgg8AIE7wAQDECT4AgDjBBwAQJ/gAAOIEHwBAnOADAIgTfAAAcYIPACDuZOkDwD6cX14sfQS2ZFZzMS+Y00GD78nnd4d8OwAAhitdAIA8V7pknJ2+WvoIbMms5mJeML+9Bt/L15/2+XgAALbgShcAIM6VLhnVbw8Wr9Oqs1qrzcy8YH42fAAAcYIPACDOlS5Js1/R1K/QNs0+q7WHMjPzgjnZ8AEAxAk+AIA4V7oAcMRWq9XSRyDAhg8AIE7wAQDEudIFgCNx9ebt0kcgyoYPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAgTvABAMQJPgCAOMEHABAn+AAA4gQfAECc4AMAiBN8AABxgg8AIE7wAQDECT4AgDjBBwAQJ/gAAOIEHwBAnOADAIgTfAAAcYIPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAgTvABAMQJPgCAOMEHABAn+AAA4gQfAECc4AMAiBN8AABxgg8AIO5k6QPAPpxfXix9BLZkVnMxL5iTDR8AQNyju154Pp5eH/IgAADszvvx8abzbPgAAOIEHwBAnC9tkFH9MPnZ6aulj7Bz1Vmt1WZmXjA/Gz4AgDjBBwAQ50qXpNmvaOpXaJtmn9XaQ5mZecGcbPgAAOIEHwBAnOADAIgTfAAAcYIPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAg7mTpAwAA8E8fxpd7/51n4/Gtfy74AAAW9j1xd5/nCD4AgAXsKvK2IfgAAA7kkJG3SfABAOzZUqG3JvgAAPZk6dBbE3wAADt2LKG35nf4AAB26NhibwwbPgCAnTjG0Fuz4QMA+EHHHHtjCD4AgB9y7LE3huADAPhuM8TeGD7DBwBwb7OE3poNHwDAPcwWe2MIPgCAPMEHALClGbd7Ywg+AICtzBp7Ywg+AIB/NXPsjSH4AAC+afbYG0PwAQDcqRB7Ywg+AIA8wQcAcIvKdm8MwQcAkCf4AAC+UtrujSH4AADyBB8AwIbadm8MwQcAkCf4AAD+VtzujSH4AADyBB8AwOhu98YQfAAAeYIPACBO8AEAD175OncMwQcAkHey9AFgH84vL5Y+Alsyq7mYF8zJhg8AIE7wAQDEPbrrhefj6fUhDwIAsITqFzb+GH/ddJ4NHwBAnOADAIgTfAAAcYIPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAgTvABAA/as/F46SPsneADAIg7WfoAsCvnlxdLH2Evzk5fLX2EnavOaq02M/OC+dnwAQDECT4AgDhXuiTNfkVTv0LbNPus1h7KzMyLqmfj8fgwvix9jL2x4QMAiBN8AABxgg8AYLR/j0/wAQDECT4AgL9Vt3yCDwAgTvABAGwobvkEHwBAnOADAPhKbcsn+AAAblGKPsEHABAn+AAA7lDZ8gk+AIBvKESf4AMA+BezR5/gAwDYwszRJ/gAALY0a/QJPgCAOMEHAHAPM275BB8AwD09G4+nCj/BBwDwnWaJPsEHAPADZog+wQcA8IOOPfoEHwDADhzz5/oEHwDADh1j9Ak+AIAdO7Ztn+ADANiTYwk/wQcAsGdLh9/JYu8MAPDAbEbfh/HlYO8r+AAAFnDI+BN8AAALu+2693sicPM5f4y/bv5b8AEAHKFdfubPlzYAAOIEHwBAnOADAIgTfAAAcYIPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAgTvABAMQJPgCAuJOlDwD7cH55sfQR2JJZzcW8YE42fAAAcYIPACDu0V0vPB9Prw95EAAAduf9+HjTeTZ8AABxgg8AIM63dMmofnvw7PTV0kfYueqs1mozMy+Ynw0fAECc4AMAiHOlS9LsVzT1K7RNs89q7aHMzLxgTjZ8AABxgg8AIE7wAQDECT4AgDjBBwAQJ/gAAOIEHwBAnOADAIgTfAAAcYIPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAgTvABAMQJPgCAOMEHABAn+AAA4gQfAECc4AMAiBN8AABxgg8AIE7wAQDECT4AgDjBBwAQJ/gAAOIEHwBAnOADAIgTfAAAcYIPACBO8AEAxAk+AIA4wQcAEHdy37+w+vXFPs5B2NWbt0sfAQAeNBs+AIA4wQcAECf4AADiBB8AQNy9v7Rxm6urq108hpDVarXo+59fXiz6/mzPrOZiXjAnGz4AgLhHd73wfDy9vu3Pb/tZFhs+vra54fOzLABweO/Hx5vOs+EDAIjbyWf4AIB/+v23n5c+ApN4+frTXp8v+Miofpj87PTV0kfYueqs1mozMy+YnytdAIA4Gz4AOJA/f/pl6SNwJJ58fnfQ9xN8JM1+RVO/Qts0+6zWHsrMzAvm5EoXACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCI8zt8AHAgh/6xXViz4QMAiBN8AABxrnQB4ED8W7qsHfp634YPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAgTvABAMQJPgCAOMEHABAn+AAA4gQfAECc4AMAiBN8AABxgg8AIE7wAQDECT4AgDjBBwAQJ/gAAOIEHwBAnOADAIgTfAAAcYIPACBO8AEAxAk+AIA4wQcAECf4AADiBB8AQJzgAwCIE3wAAHGCDwAgTvABAMQJPgCAOMEHABB3svQBYB/OLy+WPgJbMqu5mNePefL53dJH4IHaSfCtVqtdPAYAgD1wpQsAEPforheej6fXt/356tcX+zsNSVdv3i59BAB4cN6Pjzedd+/gAwDg+G0GnytdAIA4wQcAECf4AADiBB8AQJzgAwAAAAAAAAAAAAAAAAAAAAD4P/8FDOcdVn1GrycAAAAASUVORK5CYII="/>
+  <rect id="rect19" class="st28" y="0" width="1920" height="1080"/>
+  <g id="g43">
+    <path id="path31" class="st1" d="M17.12,1573.1l479.5-136.1,123.5-.4,156.3,162.8H39.42c-7.5-8.9-14.3-17-22.3-26.4h0v.1h0Z"/>
+    <path id="path32" class="st26" d="M550.22,1428.4l-574.9-1.8,18.4,167.3,710.5-7.4-154-158.1Z" sodipodi:nodetypes="ccccc"/>
+  </g>
+  <rect id="rect51" class="st2" x="307.5" y="130.5" width="1317.9" height="829.4"/>
+  <g id="text51" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st15" transform="translate(726.1 206.7)"><tspan x="0" y="0">Match Settings</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect53" class="st17" x="15.96" y="32.19" width="44.4" height="7.3" transform="translate(-14.17 37.48) rotate(-45)"/>
+  <rect id="rect54" class="st17" x="34.68" y="13.74" width="7.3" height="44.4" transform="translate(-14.19 37.63) rotate(-45)"/>
+  <rect id="rect55" class="st17" x="1060.2" y="347.5" width="15.2" height="15.2"/>
+  <rect id="rect56" class="st17" x="1060.2" y="371.1" width="15.2" height="15.2"/>
+  <g class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <text class="st16" transform="translate(840.1 385.6)"><tspan x="0" y="0">Grid: 3x3</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path id="path56" class="st27" d="M1067.8,351.2l-4.8,8.3h9.1l-4.4-8.3h.1,0Z"/>
+  <path id="path57" class="st27" d="M1067.8,382.8l-4.8-8.3h9.1l-4.4,8.3h.1,0Z"/>
+  <rect id="rect57" class="st32" x="732.6" y="837.3" width="467.8" height="87.1"/>
+  <g id="text52-0" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st16" transform="translate(891.7 899.6)"><tspan x="0" y="0">Create</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text57" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st16" transform="translate(604.2 672.3)"><tspan x="0" y="0">Code:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect58" class="st32" x="754.6" y="624.6" width="592.3" height="65.5"/>
+  <rect id="rect19-3" class="st28" x="3701.33" y="1175.95" width="1920" height="1080"/>
+  <rect id="rect51-9" class="st2" x="4008.83" y="1306.45" width="1317.9" height="829.4"/>
+  <rect id="rect53-0" class="st17" x="3717.33" y="1208.17" width="44.4" height="7.3" transform="translate(238.4 2999.18) rotate(-45)"/>
+  <rect id="rect54-6" class="st17" x="3735.87" y="1189.55" width="7.3" height="44.4" transform="translate(238.44 2999.15) rotate(-45)"/>
+  <rect id="rect1" class="st32" x="4518.73" y="1258.55" width="121.7" height="39.7"/>
+  <g id="text1" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st10" transform="translate(4533.73 1284.75)"><tspan x="0" y="0">Filter:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect2" class="st32" x="4391.33" y="1258.55" width="121.7" height="39.7"/>
+  <g id="text2" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st10" transform="translate(4436.73 1284.75)"><tspan x="0" y="0">Join</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect3" class="st32" x="4263.83" y="1258.55" width="121.7" height="39.7"/>
+  <g id="text3" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st10" transform="translate(4299.33 1284.75)"><tspan x="0" y="0">Create</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect4" class="st32" x="4136.33" y="1258.55" width="121.7" height="39.7"/>
+  <g id="text4" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st10" transform="translate(4148.33 1283.35)"><tspan x="0" y="0">Quick Match</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect5" class="st32" x="4008.83" y="1258.55" width="121.7" height="39.7"/>
+  <g id="text5" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st10" transform="translate(4040.33 1284.85)"><tspan x="0" y="0">Refresh</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path id="path5" class="st5" d="M5077.33,1298.25h249.4"/>
+  <rect id="rect53-0-9" class="st17" x="5315.77" y="1284.08" width="12" height="2" transform="translate(650.02 4139.45) rotate(-45)"/>
+  <rect id="rect54-6-8" class="st17" x="5320.77" y="1279.08" width="2" height="12" transform="translate(650.02 4139.45) rotate(-45)"/>
+  <path id="rect6" class="st17" d="M5085.73,1278.45c-1.2,0-2.4.6-3.3,1.5-1.8,1.8-2,4.5-.6,6.6l-3.7,3.7,1.4,1.4,3.7-3.7c2.1,1.4,4.8,1.1,6.6-.6,2-2,2-5.3,0-7.3-1.1-1.1-2.5-1.6-4-1.5h0l-.1-.1h0ZM5085.73,1280.15c1,0,2,.3,2.8,1,1.4,1.4,1.4,3.6,0,4.9h0c-1.4,1.4-3.6,1.4-4.9,0h0c-1.4-1.4-1.4-3.6,0-4.9h0c.6-.6,1.3-.9,2.2-1h-.1Z"/>
+  <rect id="rect7" class="st32" x="5254.43" y="2144.05" width="17.7" height="28.8"/>
+  <path id="path9" class="st17" d="M5257.53,2158.35l10,10,1.6-1.6-8.3-8.3,8.1-8.1-1.7-1.7-9.7,9.7h0Z"/>
+  <rect id="rect9" class="st32" x="5309.03" y="2144.05" width="17.7" height="28.8"/>
+  <path id="path10" class="st17" d="M5323.63,2158.35l-10,10-1.6-1.6,8.3-8.3-8.1-8.1,1.7-1.7,9.7,9.7h0Z"/>
+  <g id="text1-5" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st22" transform="translate(5281.63 2170.25)"><tspan x="0" y="0">2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect191" class="st28" x="1569.9" y="-1736.5" width="1920" height="1080"/>
+  <rect id="rect511" class="st2" x="1870.9" y="-1606" width="1317.9" height="829.4"/>
+  <g id="text511" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st15" transform="translate(2361.3 -1529.8)"><tspan x="0" y="0">Join Match</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect531" class="st17" x="1585.87" y="-1704.29" width="44.4" height="7.3" transform="translate(1673.53 638.97) rotate(-45)"/>
+  <rect id="rect541" class="st17" x="1604.49" y="-1722.84" width="7.3" height="44.4" transform="translate(1673.55 639.02) rotate(-45)"/>
+  <rect id="rect571" class="st32" x="2295.9" y="-899.2" width="467.8" height="87.1"/>
+  <g id="text52-01" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st16" transform="translate(2483.2 -836.9)"><tspan x="0" y="0">Join</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g id="text571" class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <g class="st23">
+                                        <text class="st16" transform="translate(2233.6 -1144.8)"><tspan x="0" y="0">Match Code:</tspan></text>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="rect581" class="st32" x="2233.6" y="-1116.8" width="592.3" height="65.5"/>
+  </g>
+  <g id="text572" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st16" transform="translate(2233.6 -1386.9)"><tspan x="0" y="0">IP Address:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect582" class="st32" x="2233.6" y="-1354.2" width="592.3" height="65.5"/>
+  <rect id="rect1911" class="st28" x="-1057" y="-1391" width="1920" height="1080"/>
+  <rect id="rect5311" class="st17" x="-1041.04" y="-1358.79" width="44.4" height="7.3" transform="translate(659.82 -1117.34) rotate(-45)"/>
+  <rect id="rect5411" class="st17" x="-1022.17" y="-1377.28" width="7.3" height="44.4" transform="translate(659.87 -1117.1) rotate(-45)"/>
+  <g id="text5721" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st3" transform="translate(-838.1 -1203.2)"><tspan x="0" y="0">Volume:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st17" x="-385.4" y="-1230.3" width="735.5" height="8.1"/>
+  <g id="text5722" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st3" transform="translate(-837.5 -1048.6)"><tspan x="0" y="0">Resolution:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect5711" class="st32" x="563.8" y="-411.2" width="230.3" height="64.6"/>
+  <g id="text52-011" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st7" transform="translate(632.4 -367.8)"><tspan x="0" y="0">Reset</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text57221" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st4" transform="translate(-391.7 -1050.5) scale(1.1 1)"><tspan x="0" y="0">1920 x 1080</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect5712" class="st32" x="295.9" y="-411.2" width="230.3" height="64.6"/>
+  <g id="text52-012" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st7" transform="translate(354.4 -367.8)"><tspan x="0" y="0">Cancel</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect5713" class="st32" x="28.5" y="-411.2" width="230.3" height="64.6"/>
+  <g id="text52-013" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st7" transform="translate(103.9 -367.8)"><tspan x="0" y="0">Save</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st8" x="-255" y="-1256" width="19.9" height="59.5"/>
+  <rect class="st29" x="2249.55" y="585.39" width="439.5" height="208.4"/>
+  <rect class="st33" x="2265.15" y="594.99" width="408.4" height="189.3"/>
+  <rect class="st30" x="2288.85" y="-255.41" width="347.5" height="222"/>
+  <rect class="st31" x="2298.45" y="-239.81" width="327.3" height="49.1"/>
+  <rect class="st31" x="2298.95" y="-175.11" width="327.3" height="131.6"/>
+  <rect id="rect57111" class="st32" x="2411.2" y="-1016.7" width="237.3" height="51.6"/>
+  <g>
+    <g id="text52-0111" class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <g class="st23">
+                                        <text class="st9" transform="translate(2435.2 -979.8)"><tspan x="0" y="0">Mode:</tspan></text>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text52-0121" class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <g class="st23">
+                                        <text class="st9" transform="translate(2537.2 -979.5)"><tspan x="0" y="0">LAN</tspan></text>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st0" x="4027.03" y="1322.15" width="1282" height="88.3"/>
+  <g id="text41" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st18" transform="translate(4041.83 1358.85)"><tspan x="0" y="0">Name</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text42" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st13" transform="translate(5263.33 1372.95)"><tspan x="0" y="0">1/2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text43" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4041.53 1397.35)"><tspan x="0" y="0">Grid:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text44" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4086.83 1397.55)"><tspan x="0" y="0">3x3</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st0" x="4026.43" y="1427.65" width="1282" height="88.3"/>
+  <g id="text45" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st18" transform="translate(4041.23 1464.35)"><tspan x="0" y="0">Name</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text46" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st13" transform="translate(5262.73 1478.45)"><tspan x="0" y="0">1/2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text47" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4040.93 1502.85)"><tspan x="0" y="0">Grid:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text48" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4086.23 1503.05)"><tspan x="0" y="0">3x3</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st0" x="4027.03" y="1533.05" width="1282" height="88.3"/>
+  <g id="text49" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st18" transform="translate(4041.83 1569.75)"><tspan x="0" y="0">Name</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text410" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st13" transform="translate(5263.33 1583.95)"><tspan x="0" y="0">1/2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text411" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4041.53 1608.35)"><tspan x="0" y="0">Grid:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text412" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4086.83 1608.55)"><tspan x="0" y="0">3x3</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st0" x="4027.03" y="1638.55" width="1282" height="88.3"/>
+  <g id="text413" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st18" transform="translate(4041.83 1675.25)"><tspan x="0" y="0">Name</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text414" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st13" transform="translate(5263.33 1689.35)"><tspan x="0" y="0">1/2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text415" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4041.53 1713.85)"><tspan x="0" y="0">Grid:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text416" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4086.83 1714.05)"><tspan x="0" y="0">3x3</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st0" x="4026.43" y="1744.05" width="1282" height="88.3"/>
+  <g id="text417" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st18" transform="translate(4041.23 1780.75)"><tspan x="0" y="0">Name</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text418" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st13" transform="translate(5262.73 1794.85)"><tspan x="0" y="0">1/2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text419" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4040.93 1819.25)"><tspan x="0" y="0">Grid:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text420" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4086.23 1819.45)"><tspan x="0" y="0">3x3</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st0" x="4026.43" y="1849.55" width="1282" height="88.3"/>
+  <g id="text421" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st18" transform="translate(4041.23 1886.25)"><tspan x="0" y="0">Name</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text422" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st13" transform="translate(5262.73 1900.35)"><tspan x="0" y="0">1/2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text423" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4040.93 1924.75)"><tspan x="0" y="0">Grid:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text424" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4086.23 1924.95)"><tspan x="0" y="0">3x3</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st0" x="4026.43" y="1954.95" width="1282" height="88.3"/>
+  <g id="text425" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st18" transform="translate(4041.23 1991.75)"><tspan x="0" y="0">Name</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text426" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st13" transform="translate(5262.73 2005.85)"><tspan x="0" y="0">1/2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text427" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4040.93 2030.25)"><tspan x="0" y="0">Grid:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text428" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st19" transform="translate(4086.23 2030.45)"><tspan x="0" y="0">3x3</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text5711" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st16" transform="translate(579.6 296.2)"><tspan x="0" y="0">Name:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect5811" class="st32" x="748.1" y="248.5" width="592.3" height="65.5"/>
+  <rect id="rect57112" class="st32" x="703.1" y="723.2" width="237.3" height="51.6"/>
+  <g id="text52-0112" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st9" transform="translate(727.1 760.1)"><tspan x="0" y="0">Mode:</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text52-0122" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st9" transform="translate(829.1 760.4)"><tspan x="0" y="0">LAN</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="rect57113" class="st32" x="979.6" y="723.2" width="237.3" height="51.6"/>
+    <g>
+      <g id="text52-0113" class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <g class="st23">
+                                        <g class="st23">
+                                          <text class="st9" transform="translate(1003.6 760.1)"><tspan x="0" y="0">Type:</tspan></text>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <g class="st23">
+                                        <text class="st9" transform="translate(1098.2 760.4)"><tspan x="0" y="0">Public</tspan></text>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect19111" class="st28" x="-2305.4" y="756.05" width="1920" height="1080"/>
+  <rect id="rect5111" class="st2" x="-1997.9" y="886.55" width="1317.9" height="829.4"/>
+  <rect id="rect53111" class="st17" x="-2289.42" y="788.23" width="44.4" height="7.3" transform="translate(-1224 -1371.23) rotate(-45)"/>
+  <rect id="rect54111" class="st17" x="-2270.72" y="769.79" width="7.3" height="44.4" transform="translate(-1224.03 -1371.09) rotate(-45)"/>
+  <g>
+    <rect id="rect571111" class="st32" x="-1579.3" y="1593.35" width="467.8" height="87.1"/>
+    <g id="text52-01111" class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <g class="st23">
+                                        <text class="st16" transform="translate(-1421.8 1655.65)"><tspan x="0" y="0">Cancel</tspan></text>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text5111" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st11" transform="translate(-1925.99 1248.5)"><tspan x="0" y="0">Waiting for the match to start...</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text512" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st14" transform="translate(-1384.19 1369.17)"><tspan x="0" y="0">1/2</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect191111" class="st28" x="-1122.23" y="2392.8" width="1920" height="1080"/>
+  <rect id="rect51111" class="st2" x="-821.18" y="2518.1" width="1317.9" height="829.4"/>
+  <g id="text572211" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st3" transform="translate(-270.96 2608.02)"><tspan x="0" y="0">Result</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <text class="st21" transform="translate(-328.63 2791.96)"><tspan x="0" y="0">Player 1 score: 52</tspan></text>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <text class="st21" transform="translate(-329.33 2851.26)"><tspan x="0" y="0">Player 2 score: 20</tspan></text>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <text class="st25" transform="translate(-238.73 2704.31)"><tspan x="0" y="0">Lose</tspan></text>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect57121" class="st32" x="-724.23" y="3186.59" width="467.8" height="87.1"/>
+  <g id="text52-01211" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st16" transform="translate(-536.93 3248.89)"><tspan x="0" y="0">Quit</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect57131" class="st32" x="-68.03" y="3186.59" width="467.8" height="87.1"/>
+  <g id="text52-0131" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st16" transform="translate(65.41 3248.89)"><tspan x="0" y="0">Rematch</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <text class="st12" transform="translate(132.33 3165.31)"><tspan x="0" y="0">0/2</tspan></text>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st34" x="-1590.11" y="-76.16" width="465.1" height="503.6"/>
+  <rect id="rect5711111" data-name="rect571111" class="st32" x="-1574.06" y="130.13" width="433" height="80.62"/>
+  <g id="text52-011111" data-name="text52-01111" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st6" transform="translate(-1444.52 187.79)"><tspan x="0" y="0">Settings</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect572" class="st32" x="-1574.06" y="228.67" width="433" height="80.62"/>
+  <g class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <text class="st6" transform="translate(-1444.75 286.33)"><tspan x="0" y="0">Support</tspan></text>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect573" class="st32" x="-1574.06" y="327.2" width="433" height="80.62"/>
+  <g id="text52-02" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st6" transform="translate(-1463.22 384.87)"><tspan x="0" y="0">Surrender</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect574" class="st32" x="-1574.06" y="31.6" width="433" height="80.62"/>
+  <g id="text52-03" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <g class="st23">
+                                      <text class="st6" transform="translate(-1441.9 89.27)"><tspan x="0" y="0">Resume</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st23">
+    <g class="st23">
+      <g class="st23">
+        <g class="st23">
+          <g class="st23">
+            <g class="st23">
+              <g class="st23">
+                <g class="st23">
+                  <g class="st23">
+                    <g class="st23">
+                      <g class="st23">
+                        <g class="st23">
+                          <g class="st23">
+                            <g class="st23">
+                              <g class="st23">
+                                <g class="st23">
+                                  <g class="st23">
+                                    <text class="st20" transform="translate(-1466.15 -4.77)"><tspan x="0" y="0">Options</tspan></text>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="text52-01221" data-name="text52-0122" class="st23">
+    <g class="st23">
+      <g class="st23">
+        <text class="st24" transform="translate(794.71 819.45)"><tspan x="0" y="0">Match doesn’t exist</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
